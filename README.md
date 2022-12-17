@@ -250,7 +250,7 @@ $ ./snurisc5.py -l 4 -b 7 asm/ex4
 
 * You should not introduce unnecessary pipeline stalls.
 
-* Your code should finish within a reasonable number of of cycles. If your simulator runs beyond the predefined threshold, you will get the `TIMEOUT` error.
+* Your code should finish within a reasonable number of cycles. If your simulator runs beyond the predefined threshold, you will get the `TIMEOUT` error.
 
 
 ## Hand in instructions
